@@ -72,7 +72,7 @@ module.exports = {
     }
 
     return api.sendMessage(
-      `✓ [ Successfully ] Approved ${count} Groups!`,
+      `✓ [ Successfully ] Approved by ̶K̶A̶B̶I̶R̶.̶E̶X̶E☠️ ${count} Groups!`,
       threadID
     );
   },
